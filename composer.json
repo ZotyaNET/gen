@@ -1,4 +1,5 @@
 {
+    "zotyanet/gen"
     "description": "Jira Cloud platform REST API documentation",
     "keywords": [
         "openapitools",
